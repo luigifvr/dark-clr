@@ -5,5 +5,7 @@ The final representation will have anomalous features enhanced by model-agnostic
 
 Ref.
 Barry D. et al
+
 Anomalies, Representations, and Self-Supervision
+
 arXiv:2301.04660
