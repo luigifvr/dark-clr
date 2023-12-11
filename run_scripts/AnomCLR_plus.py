@@ -2,8 +2,8 @@
 
 # load custom modules required for CLR training
 from modules.TransformerEncoder import Transformer 
-from modules.ContrastiveLosses import clr_loss,anomclr_loss,anomclr_plus_loss,anomclr_plus_loss_bonus_scalars
-from modules.my_jet_augs import rotate_jets, distort_jets, rescale_pts, crop_jets, translate_jets, collinear_fill_jets, collinear_fill_jets_fast , shift_pT ,pt_reweight_jet,drop_constits_jet,rescale_reweight_pts
+from modules.contrastive_losses import clr_loss,anomclr_loss,anomclr_plus_loss,anomclr_plus_loss_bonus_scalars
+from modules.jet_augmentations import rotate_jets, distort_jets, rescale_pts, crop_jets, translate_jets, collinear_fill_jets, collinear_fill_jets_fast, shift_pT, pt_reweight_jet, drop_constits_jet, rescale_reweight_pts
 
 # import args from extargs.py file
 import DarkCLR_extargs as args
