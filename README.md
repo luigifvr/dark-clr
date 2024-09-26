@@ -13,7 +13,7 @@ Usage:\
 `TransformerEncoder.py` includes the transformer class\
 `contrastive_losses.py` defines the CLR loss function\
 `jet_augmentations.py` contains the physical and anomalous jet augmentations\
-We provide an exmaple run script with the set of default parameters in ```run_scripts```.
+We provide an example run script with the set of default parameters in ```run_scripts```.
 
 
 Related refs.\
