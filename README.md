@@ -7,6 +7,8 @@ This is the reference codebase for:
 arXiv:2312.03067\
 Favaro L., Kraemer M., Modak T., Plehn T., Rueschkamp J.
 
+The QCD background and the main ''Aachen'' signal datasets are published on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12801842.svg)](https://doi.org/10.5281/zenodo.12801842) 
+
 Usage:\
 `TransformerEncoder.py` includes the transformer class\
 `contrastive_losses.py` defines the CLR loss function\
@@ -22,3 +24,7 @@ arXiv:2301.04660
 Dillon B. et al.\
 **Symmetries, Safety, and Self-supervision**\
 arXiv:2108.04253
+
+Dillon B. et al.\
+**A normalized autoencoder for LHC triggers**\
+arXiv:2206.14225
